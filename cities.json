@@ -1,0 +1,26 @@
+[
+  {
+    "key": "RI",
+    "latitude": -22.9083,
+    "longitude": -43.1964,
+    "name": "Rio de Janeiro"
+  },
+  {
+    "key": "BR",
+    "latitude": -15.7744,
+    "longitude": -48.0773,
+    "name": "Brasilia"
+  },
+  {
+    "key": "CU",
+    "latitude": -15.5958,
+    "longitude": -56.0969,
+    "name": "Cuiaba"
+  },
+  {
+    "key": "GO",
+    "latitude": -16.6789,
+    "longitude": -49.2539,
+    "name": "Goiania"
+  }
+]
